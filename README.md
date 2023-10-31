@@ -43,7 +43,7 @@ Navigate to the "Admin Panel", then head to "Agents", and click on "Roles." Make
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Next, head back to the "Admin Panel", then make your way to "Agents" and select "Departments." Create a new department named "System Administrators" and 
 </p>
 <br />
 
