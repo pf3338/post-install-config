@@ -43,7 +43,39 @@ Navigate to the "Admin Panel", then head to "Agents", and click on "Roles." Make
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, head back to the "Admin Panel", then make your way to "Agents" and select "Departments." Create a new department named "System Administrators" and 
+Next, head back to the "Admin Panel", then make your way to "Agents" and select "Departments." Create a new department named "System Administrators."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, head back to the "Admin Panel" again, then head to "Agents" and then "Teams" after.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once done setting up teams, head to "Settings" (under "Admin Panel"), then hit "User Settings." Hit the check box next to "Require registration and login to create tickets." This will allow end users to create tickets. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This next step will be a demonstration on how to add "agents" (employees who receive and work on tickets submitted by end users). Head to the "Admin Panel", click on "Agents", then select "Add New." Create two agents named "Jane" and "John" (this is for demonstrative purposes only, you have the ability to create as many agents and name them as you see fit).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will create some end users and give them the ability to submit tickets. Head to the "Agent Panel", go to "Users", then hit "Add New". Make two user accounts and name them "Karen" and "Ken."
 </p>
 <br />
 
@@ -63,10 +95,3 @@ Next, head back to the "Admin Panel", then make your way to "Agents" and select 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
