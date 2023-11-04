@@ -83,7 +83,7 @@ Next, we will create some end users and give them the ability to submit tickets.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+After making the end user accounts, we can begin working on the SLA (Service Level Agreement). Start by heading to  
 </p>
 <br />
 
