@@ -83,7 +83,7 @@ Next, we will create some end users and give them the ability to submit tickets.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After making the end user accounts, we can begin working on the SLA (Service Level Agreement). Start by heading to  
+After making the end user accounts, we can begin working on the SLA (Service Level Agreement). Start by heading to "Admin Panel", then click on "Manage", then select "SLA." Make three SLA plans as follows: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours).
 </p>
 <br />
 
