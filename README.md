@@ -91,7 +91,7 @@ After making the end user accounts, we can begin working on the SLA (Service Lev
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Next, we are going to demonstrate how to add some help topics. Head to the "Admin Panel", then click on "Manage." Select "Help Topics" and add the following topics: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Reset. Once you are done adding said help topics, OS Ticket will be fully set up for you to be able to receive tickets from end users.
 </p>
 <br />
 
